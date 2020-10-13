@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A fart app",
+    "githubUrl": "https://github.com/crakins/farted"
   }
 }
